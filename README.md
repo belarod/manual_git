@@ -1,4 +1,4 @@
-# Manual Git Completo
+# Manual Git
 
 ## Pré-requisitos
 - Git instalado ([Download](https://git-scm.com/))
